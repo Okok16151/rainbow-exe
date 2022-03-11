@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"expression": "sad",
+			"text": "welp,,,,",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "minus"
+		},
+		{
+			"expression": "talk",
+			"text": "heyyyy beeep!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "oh hey there-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "minus"
+		},
+		{
+			"expression": "talk",
+			"text": "ya ok?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "yeah I'm fine",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "minus"
+		},
+		{
+			"expression": "talk",
+			"text": "oke, wanna battle?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "uhm I'm not good at singing tho but sure why not",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "minus"
+		},
+		{
+			"expression": "talk",
+			"text": "YAS",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "uhh well okay then, also who's that green-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "minus"
+		},
+		{
+			"expression": "talk",
+			"text": "you mean pico?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "pico...I remember him but I don't wanna talk about it",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "minus"
+		},
+		{
+			"expression": "talk",
+			"text": "furry.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "pissed",
+			"text": "pico what the fuck-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "ASS! you're a furry ASWELL",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "minus"
+		},
+		{
+			"expression": "talk",
+			"text": "E.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "well anyways...wanna start",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "yes. Maybe that calms me down a bit",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "minus"
+		},
+		{
+			"expression": "sus",
+			"text": "sus",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	]
+}
