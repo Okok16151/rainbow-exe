@@ -1,0 +1,30 @@
+{
+	"storyName": "so many souls to play with...",
+	"hideFreeplay": false,
+	"weekBackground": "sonic",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"consolex",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"execution",
+			"icon-dash-exe",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Round 1"
+}

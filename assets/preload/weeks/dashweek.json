@@ -1,0 +1,39 @@
+{
+	"storyName": "Bloodied mouth",
+	"hideFreeplay": false,
+	"weekBackground": "sonic",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"consolex",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"revenge",
+			"icon-dash-exe",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"amnesia",
+			"icon-dash-exe",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "dashweek"
+}
